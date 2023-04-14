@@ -1,5 +1,5 @@
 # Payroll-Calculator-
-Calculadora de folha de pagamento com descontos de INSS e variados
+Payroll Calculator with Retirement, Income Tax and Miscellaneous Deductions
 
 # How to Run a PHP Project on GitHub
 This Readme file provides instructions on how to set up and run a PHP project on GitHub.
